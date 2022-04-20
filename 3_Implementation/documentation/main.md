@@ -1,1 +1,1 @@
-@mainpage Activity1 by Shweta Gupta  @subpage Activity.c
+@mainpage activity1 by Architha K V  @subpage activity.c

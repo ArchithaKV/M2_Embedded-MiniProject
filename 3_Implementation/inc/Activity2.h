@@ -1,5 +1,5 @@
 /**
- * @file Activity2.h
+ * @file activity2.h
  * @author Architha K V
  * @brief Header file for activity2(ADC temp sensor) 
  */

@@ -1,5 +1,5 @@
 /**
- * @file Activity3.h
+ * @file activity3.h
  * @author Architha K V
  * @brief header file for activity 3(PWM generation)
  */

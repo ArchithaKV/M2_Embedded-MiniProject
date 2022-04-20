@@ -1,10 +1,10 @@
 /**
- * @file Activity1.c
+ * @file activity1.c
  * @author Architha K V
  * @brief source code for activity1 
  */
 #include <avr/io.h>
-#include "Activity1.h"
+#include "activity1.h"
 
 /**
  * @brief function to initialise leds and buttons

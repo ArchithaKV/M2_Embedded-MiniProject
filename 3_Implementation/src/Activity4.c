@@ -1,10 +1,10 @@
 
 /**
- * @file Activity4.c
+ * @file activity4.c
  * @author Architha K V
  * @brief source code for activity 4 (writing through UART) 
  */
-#include "Activity4.h"
+#include "activity4.h"
 
 void Init_UART(uint16_t UBRR_val){
     UBRR0L = UBRR_val;

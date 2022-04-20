@@ -1,5 +1,5 @@
 /**
- * @file Activity4.h
+ * @file activity4.h
  * @author Architha K V
  * @brief header file for activity 4 (writing through UART) 
  */

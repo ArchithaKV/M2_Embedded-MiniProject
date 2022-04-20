@@ -1,10 +1,10 @@
 /**
- * @file Activity2.c
+ * @file activity2.c
  * @author Architha K V
  * @brief source file for Activity 2 (ADC temp sensor)
  */
 #include <avr/io.h>
-#include "Activity2.h"
+#include "activity2.h"
 /**
  * @brief Initialising prescalar and interrupt flags
  * 

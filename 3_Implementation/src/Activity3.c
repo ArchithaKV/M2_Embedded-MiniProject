@@ -1,10 +1,10 @@
 /**
- * @file Activity3.c
+ * @file activity3.c
  * @author Architha K V
  * @brief source code for activity 3(PWM generation)
  * 
  */
-#include "Activity3.h"
+#include "activity3.h"
 #include<avr/io.h>
 // #include<string.h>
 #include<stdlib.h>

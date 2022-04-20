@@ -1,7 +1,7 @@
 #ifndef _ACTIVITY1_H_
 #define _ACTIVITY1_H_
 /**
- * @file Activity1.h
+ * @file activity1.h
  * @author Architha K V 
  * @brief header file for first activity of button sensor
  * @version 0.1
