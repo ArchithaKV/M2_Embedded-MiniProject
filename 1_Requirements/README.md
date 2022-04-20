@@ -26,26 +26,26 @@ The vehical's seat heat control system is used to control the temperature of the
 
 - Competition
 
-## 4W's and 1H's
+# 4W's and 1H's
 
-# Who
+## Who
 To maintain body temperature of passengers
 
-# What
+## What
 Heat control system in a vehicle
 
-# Where
+## Where
 Used in almost all of the passenger vehicles
 
-# When
+## When
 When temperature is low
 
-# How
+## How
 By using sensors and microcontroller
 
-## Detail Requirements
+# Detail Requirements
 
-# High Level Requirements
+## High Level Requirements
 
 |ID|Description|
 |--|-----------|
@@ -55,7 +55,7 @@ By using sensors and microcontroller
 |HLR4|Heater|
 |HLR5|Display CDD CRO|
 
-# Low Level Requirements
+## Low Level Requirements
 
 |ID|Description|HLR ID|
 |--|-----------|------|
