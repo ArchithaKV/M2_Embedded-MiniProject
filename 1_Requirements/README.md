@@ -53,7 +53,7 @@ By using sensors and microcontroller
 |HLR2|Switches|
 |HLR3|Temperature sensor|
 |HLR4|Heater|
-|HLR5|Display CDD CRO|
+|HLR5|Display|
 
 ## Low Level Requirements
 
@@ -62,5 +62,5 @@ By using sensors and microcontroller
 |LLR1|ATMega328|HLR1|
 |LLR2|ADC and Potentiometer|HLR3|
 |LLR3|Thermo electric module|HLR4|
-LLR4|LCD and LED, PWM|HLR5|
+LLR4|LED|HLR5|
 
