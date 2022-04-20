@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @author Architha K V
- * @brief main file for Car seat Heat Control system 
+ * @brief main file for Vehical's seat Heat Control system 
  */
 #include <avr/io.h>
 #include <util/delay.h>
