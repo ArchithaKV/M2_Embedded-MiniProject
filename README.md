@@ -24,6 +24,18 @@ This is used to control the temperature of the vehicle seat. When a person gets 
 | `4_Testplan_and_Output`      | Documents with test plans and procedures|
 | `5_Images`       | Project Images |
 
+## Contributors List and Summary
+|LOI no. |  Name   |    Features    |
+|-------|---------|----------------|
+| `12079` | Architha K V |  | 
+
+
+## Challenges Faced and How Was It Overcome
+
+1. Debugging
+2. Makefiles
+
+
 
 
 Reference https://github.com/yashwanthabhilash/EmbeddedCProject.git
