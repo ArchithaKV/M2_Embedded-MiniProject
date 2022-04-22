@@ -27,7 +27,7 @@ This is used to control the temperature of the vehicle seat. When a person gets 
 ## Contributors List and Summary
 |LOI no. |  Name   |    Features    |
 |-------|---------|----------------|
-| `12079` | Architha K V |  | 
+| `12079` | Architha K V | ON, OFF, temperature sensor  | 
 
 
 ## Challenges Faced and How Was It Overcome
@@ -39,3 +39,4 @@ This is used to control the temperature of the vehicle seat. When a person gets 
 
 
 Reference https://github.com/yashwanthabhilash/EmbeddedCProject.git
+
