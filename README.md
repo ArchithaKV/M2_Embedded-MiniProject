@@ -22,6 +22,7 @@ This is used to control the temperature of the vehicle seat. When a person gets 
 | `2_Desgin`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
 | `4_Testplan_and_Output`      | Documents with test plans and procedures|
+| `5_Images`       | Project Images |
 
 
 
