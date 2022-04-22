@@ -10,10 +10,10 @@ This is used to control the temperature of the vehicle seat. When a person gets 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/66eddac0b1fc4fdc885faf4d2340fc53)](https://www.codacy.com/gh/ArchithaKV/M2_Embedded-MiniProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArchithaKV/M2_Embedded-MiniProject&amp;utm_campaign=Badge_Grade)
 
 * Codiga - Static analysis
-https://api.codiga.io/project/32894/score/svg
+![Quality Score]https://api.codiga.io/project/32894/score/svg
 
 * Codiga - Static analysis
-https://api.codiga.io/project/32894/status/svg
+![Code Grade]https://api.codiga.io/project/32894/status/svg
 
 ## Folder Structure
 |Folder             | Description |
